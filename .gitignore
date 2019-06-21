@@ -1,0 +1,6 @@
+*.pfs0
+*.nso
+*.nro
+*.nacp
+*.elf
+build/*
